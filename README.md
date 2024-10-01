@@ -33,12 +33,12 @@ Precisa de inspiração? Explore a seção de dicas e descubra sites com ferrame
 1. Faça um **Fork** deste repositório;
 2. Clone localmente: `git clone https://github.com/SEU_USERNAME/programeio-open-source.git`;
 3. Adicione o remote upstream para manter seu repositório local atualizado. Por exemplo: `git remote add -u https://github.com/FroJhoDev/programeio-open-source.git`;
-    > Utilize o comando `git pull -u main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar.
+    > Utilize o comando `git pull -u main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch -u main` para baixar sem mesclar.
 4. Crie/Referêncie uma nova **branch** e nomeie como `feature/community-SEU_USERNAME`: `git checkout -b feature/community-SEU_USERNAME`;
     > Exemplo: `git checkout -b feature/community-FroJhoDev`
-5. Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
+5. Dentro da pasta [`community`](https://github.com/FroJhoDev/programeio-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
     > Exemplo: `FroJhoDev.md` <br>
-6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na nossa seção de dicas;
+6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/FroJhoDev/programeio-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na nossa seção de dicas;
     > **Observação:** Use os outros exemplos como inspiração e não cópia.
 7. Adicione suas alterações a "staging area" com o comando `git add community/SEU_USERNAME.md`;
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m "feat: add SEU_USERNAME profile"`;
