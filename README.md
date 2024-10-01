@@ -22,7 +22,7 @@ Aprender o básico sobre contribuição no GitHub em projeto open source, ao mes
 
 ## 🚀 Desafio: Profile README
 
-A comunidade do GitHub te convida a se apresentar ao mundo! ✨ Crie um perfil único e personalizado, adicionando um README especial à pasta "community" do seu repositório.
+A comunidade do Programe.io no GitHub te convida a se apresentar ao mundo! ✨ Crie um perfil único e personalizado, adicionando um README especial à pasta "community" do seu repositório.
 
 Imagine este README como seu cartão de visitas digital: um espaço para mostrar quem você é, suas paixões e talentos. Use badges para destacar suas habilidades, adicione cards com suas estatísticas no GitHub e exiba os projetos incríveis que você criou, colaborou ou adoraria que outras pessoas colaborassem.
 
