@@ -58,7 +58,7 @@ Precisa de inspiração? Explore a seção de dicas e descubra sites com ferrame
     <tr>
       <td>GitHub PROFILINATOR</td>
       <td align="center">
-        <a href="https://profilinator.rishav.dev">
+        <a target="_blank" href="https://profilinator.rishav.dev">
            <img align="center" alt="Visite o Site" src="https://img.shields.io/badge/Visite%20o%20Site-E94D5F?style=for-the-badge">
         </a>
       </td>
@@ -66,7 +66,7 @@ Precisa de inspiração? Explore a seção de dicas e descubra sites com ferrame
     <tr>
       <td>Profile Readme Generator</td>
       <td align="center">
-        <a href="https://profile-readme-generator.com/">
+        <a target="_blank" href="https://profile-readme-generator.com/">
            <img align="center" alt="Visite o Site" src="https://img.shields.io/badge/Visite%20o%20Site-E94D5F?style=for-the-badge">
         </a>
       </td>
@@ -74,7 +74,7 @@ Precisa de inspiração? Explore a seção de dicas e descubra sites com ferrame
     <tr>
       <td>readme.so</td>
       <td align="center">
-        <a href="https://readme.so/pt/editor">
+        <a target="_blank" href="https://readme.so/pt/editor">
            <img align="center" alt="Visite o Site" src="https://img.shields.io/badge/Visite%20o%20Site-E94D5F?style=for-the-badge">
         </a>
       </td>    
