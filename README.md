@@ -10,7 +10,7 @@ Repositório desenvolvido para fins didáticos para mentorias de Git e GitHub de
 
 Aprender o básico sobre contribuição no GitHub em projeto open source, ao mesmo tempo que treina todos os conceitos aprendidos durante as aulas.
 
-## 🙋 Membros que já contribuiram
+## 🙋 Membros Que Já Contribuiram
 <a href="https://github.com/FroJhoDev/programeio-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=FroJhoDev/programeio-open-source"/>
 </a>
