@@ -1,4 +1,7 @@
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+[![Star](https://img.shields.io/github/stars/FroJhoDev/programeio-open-source?style=social)](https://github.com/FroJhoDev/programeio-open-source/stargazers)
+[![Forks](https://img.shields.io/github/forks/FroJhoDev/programeio-open-source?style=social)](https://github.com/FroJhoDev/programeio-open-source/forks)
+[![GitHub Issues](https://img.shields.io/github/issues/FroJhoDev/programeio-open-source?style=social)](https://github.com/FroJhoDev/programeio-open-source/issues/)
 
 # **Contribuindo em um Projeto Open Source no GitHub**
 
@@ -84,10 +87,6 @@ Precisa de inspiração? Explore a seção de dicas e descubra sites com ferrame
 </table>
 
 ## 🫶 Contribua
-[![Star](https://img.shields.io/github/stars/FroJhoDev/programeio-open-source?style=social)](https://github.com/FroJhoDev/programeio-open-source/stargazers)
-[![Forks](https://img.shields.io/github/forks/FroJhoDev/programeio-open-source?style=social)](https://github.com/FroJhoDev/programeio-open-source/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/FroJhoDev/programeio-open-source?style=social)](https://github.com/FroJhoDev/programeio-open-source/issues/)
-
 Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. 
 
 Além disso, você também pode contribuir:
