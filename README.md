@@ -15,8 +15,8 @@ Aprender o básico sobre contribuição no GitHub em projeto open source, ao mes
 
 ## 🙋 Membros Que Já Contribuiram
 <a href="https://github.com/FroJhoDev/programeio-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FroJhoDev/programeio-open-source"/>
-  <img src="https://contrib.rocks/image?repo=flavianaal/programeio-open-source"/>
+  <img src="https://github.com/FroJhoDev.png" width="60px;"/>
+  <img src="https://github.com/flavianaal.png" width="60px;"/>
 </a>
 
 ## 🛠️ Ferramentas
