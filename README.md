@@ -22,6 +22,7 @@ Aprender o básico sobre contribuição no GitHub em projeto open source, ao mes
   <img src="https://github.com/Jussarateixeira.png" width="60px;"/>
   <img src="https://github.com/JoaoChaves65.png" width="60px;"/>
   <img src="https://github.com/Joaomarcellodev.png" width="60px;"/>
+  <img src="https://github.com/HellenJasmine.png" width="60px;"/>
 </a>
 
 ## 🛠️ Ferramentas
